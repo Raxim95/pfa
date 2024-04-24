@@ -1,0 +1,14 @@
+{
+  "name": "pfa",
+  "version": "1.0.0",
+  "description": "n ólshemli massivti birinshi shuffle qıladı, next() metodı arqalı v dana elementti alıw múmkin (sheńber tárizinde)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ongarbaev Raxim",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
