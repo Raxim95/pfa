@@ -1,6 +1,7 @@
 import _ from "lodash";
 
 // pull from shuffled array
+// commit 3
 export default function PFSHA(m = [], v = 1) {
   const obj = {};
   // m - massiv
