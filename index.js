@@ -1,6 +1,7 @@
-const _ = require("lodash");
+import _ from "lodash";
 
-module.exports.Sh = function (m = [], v = 1) {
+// pull from shuffled array
+export default function PFSHA(m = [], v = 1) {
   const obj = {};
   // m - massiv
   // v - bir degende neshe soraw kerek
@@ -21,4 +22,4 @@ module.exports.Sh = function (m = [], v = 1) {
     return mi;
   };
   return obj;
-};
+}
