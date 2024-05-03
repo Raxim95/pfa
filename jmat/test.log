@@ -1,0 +1,3528 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.4.1)  22 APR 2024 17:05
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./test.tex
+(test.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Program Files\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(C:\Program Files\MiKTeX\tex/latex/tools\array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen141
+\ar@mcellbox=\box51
+\extrarowheight=\dimen142
+\NC@list=\toks19
+\extratabsurround=\skip50
+\backup@length=\skip51
+\ar@cellbox=\box52
+)
+(C:\Program Files\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+(C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count195
+\Gm@cntv=\count196
+\c@Gm@tempcnt=\count197
+\Gm@bindingoffset=\dimen143
+\Gm@wd@mp=\dimen144
+\Gm@odd@mp=\dimen145
+\Gm@even@mp=\dimen146
+\Gm@layoutwidth=\dimen147
+\Gm@layoutheight=\dimen148
+\Gm@layouthoffset=\dimen149
+\Gm@layoutvoffset=\dimen150
+\Gm@dimlist=\toks21
+
+(C:\Program Files\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count198
+\l__pdf_internal_box=\box53
+) (test.aux)
+\openout1 = `test.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(42.67912pt, 465.20166pt, 89.62709pt)
+* v-part:(T,H,B)=(42.67912pt, 700.96107pt, 101.40665pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=465.20166pt
+* \textheight=700.96107pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-66.59087pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 17.
+
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 17--27
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+[]|\OT1/cmr/m/n/12 An^^Pq emes in-te-grald^^P esapla^^Sn:
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 32--58
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 61--64
+[][] 
+ []
+
+[1
+
+{C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 71--81
+[][] 
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 102--102
+[]|\OT1/cmr/m/n/12 50 buy^^Pmnan ibarat par-tiyada 3 buy^^Pm
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 102--102
+\OT1/cmr/m/n/12 jarams^^Pz. Tos^^Pnnan al^^Pn^^Sgan 8 buy^^Pmn^^P^^Sn
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 104--104
+[]|\OT1/cmr/m/n/12 Eki ku-bikti bir m^^Sarte tasla^^Sganda t^^Susken
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 104--104
+\OT1/cmr/m/n/12 ochko-lard^^P^^Sn qos^^Pnd^^Ps^^P 4 bol^^Pw iti-mall^^P^^Sg^^Pn
+
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 106--106
+[]|\OT1/cmr/m/n/12 Differencial te^^Snlemeni^^Sn ul^^Pwma sheshimin
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 86--112
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 115--118
+[][] 
+ []
+
+[2]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 125--135
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--160
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-ern-cial te^^Snlemeni^^Sn uluwma
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--162
+[]|\OT1/cmr/m/n/12 Qatard^^P^^Sn j^^Py^^Pnd^^Ps^^Pn esapla^^Sn:
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 140--166
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 169--172
+[][] 
+ []
+
+[3]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 179--189
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--212
+[]|\OT1/cmr/m/n/12 D^^Songelekti^^Sn ishine kvadrat s^^Pz^^Pl^^Sgan.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--212
+\OT1/cmr/m/n/12 D^^Songelekti^^Sn ishi-nen tos^^Pnnan bel-gilen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--212
+\OT1/cmr/m/n/12 gen no-qatt^^P^^Sn kvadratt^^P^^Sn ishinde jat^^Pw
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--214
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-en-cial te^^Snlemeni^^Sn ul-wma
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 216--216
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn j^^Pynaql^^Pl^^Pq oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 194--220
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 223--226
+[][] 
+ []
+
+[4]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 233--243
+[][] 
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 266--266
+[]|\OT1/cmr/m/n/12 "MATEMATIKA" s^^Sozini^^Sn h^^Saripleri b^^Solek
+ []
+
+
+Underfull \hbox (badness 6445) in paragraph at lines 266--266
+\OT1/cmr/m/n/12 kar-tochkalar^^Sga jaz^^Pl^^Pp jaw^^Pp ar-alast^^Pr^^Pl^^Pp
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 248--274
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 277--280
+[][] 
+ []
+
+[5]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 287--297
+[][] 
+ []
+
+
+Underfull \hbox (badness 7704) in paragraph at lines 306--306
+[]|\OT1/cmr/m/n/12 O^^Sn a^^Sgzal^^P qatar-lar ush^^Pn j^^Pynaql^^Pl^^Pqt^^P^^S
+n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+[]|[]\OT1/cmr/m/n/12 Ozgeriwshileri aj^^Pral^^Sgan dif-fer-en-ciall^^Pq
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 322--322
+[]|\OT1/cmr/m/n/12 Differencial te^^Snlemeni^^Sn ul^^Pwma sheshimin
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 324--324
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn j^^Pynaql^^Pl^^Pq oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 302--328
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 331--334
+[][] 
+ []
+
+[6]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 341--351
+[][] 
+ []
+
+
+Underfull \hbox (badness 2922) in paragraph at lines 364--364
+[]|\OT1/cmr/m/n/12 Funkciyan^^P^^Sn $(\OML/cmm/m/it/12 x[]; y[]\OT1/cmr/m/n/12 
+)$ no-qatta^^Sg^^P ^^Suzliksizlik
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 366--366
+[]|\OT1/cmr/m/n/12 Itimmall^^Pqt^^P^^Sn ge-ometriyal^^Pq an^^Pqlamas^^Pn^^P^^Sn
+
+ []
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 374--374
+[]|\OT1/cmr/m/n/12 Telefon nomerdi^^Sn aq^^Pr^^Sg^^P cifras^^Pn um^^Pt^^Pp,
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 356--382
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 385--388
+[][] 
+ []
+
+[7]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 395--405
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 414--414
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P def-fer-en-cial te^^Snlemeni^^Sn uluwma
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--428
+[]|\OT1/cmr/m/n/12 "BIOLOGIYA" s^^Sozini^^Sn h^^Saripleri b^^Solek
+ []
+
+
+Underfull \hbox (badness 3240) in paragraph at lines 428--428
+\OT1/cmr/m/n/12 kar-tochkalar^^Sga jaz^^Pl^^Pp jaw^^Pp, ar-alast^^Pr^^Pl^^Pp
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 430--430
+[]|\OT1/cmr/m/n/12 Differencial te^^Snlemeni^^Sn ul^^Pwma sheshimin
+ []
+
+
+Underfull \hbox (badness 7963) in paragraph at lines 432--432
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn jaq^^Pnlas^^Pw oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 410--436
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 439--442
+[][] 
+ []
+
+[8]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 449--459
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 476--476
+[]|\OT1/cmr/m/n/12 Racional funkciyan^^P in-te-gralla^^Sn:
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 480--480
+[]|\OT1/cmr/m/n/12 50 buy^^Pmnan ibarat par-tiyada 3 buy^^Pm
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 480--480
+\OT1/cmr/m/n/12 jarams^^Pz. Tos^^Pnnan al^^Pn^^Sgan 8 buy^^Pmn^^P^^Sn
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-ern-cial te^^Snlemeni^^Sn uluwma
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 464--490
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 493--496
+[][] 
+ []
+
+[9]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 503--513
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 530--530
+[]|\OT1/cmr/m/n/12 Racional funkciyan^^P in-te-gralla^^Sn:
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 536--536
+[]|\OT1/cmr/m/n/12 Eki ku-bikti bir m^^Sarte tasla^^Sganda t^^Susken
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 536--536
+\OT1/cmr/m/n/12 ochko-lard^^P^^Sn qos^^Pnd^^Ps^^P 4 bol^^Pw iti-mall^^P^^Sg^^Pn
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--538
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-en-cial te^^Snlemeni^^Sn ul-wma
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 518--544
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 547--550
+[][] 
+ []
+
+[10]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 557--567
+[][] 
+ []
+
+
+Underfull \hbox (badness 3965) in paragraph at lines 578--578
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-en-ciall^^Pq te^^Snlemeni^^Sn uluwma
+ []
+
+
+Underfull \hbox (badness 1694) in paragraph at lines 582--582
+[]|\OT1/cmr/m/n/12 Funkciyan^^P^^Sn an^^Pqlan^^Pw oblast^^P qalay bel-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 584--584
+[]|\OT1/cmr/m/n/12 An^^Pq emes in-te-grald^^P esapla^^Sn:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 594--594
+[]|\OT1/cmr/m/n/12 Qatard^^P^^Sn j^^Py^^Pnd^^Ps^^Pn esapla^^Sn:
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 572--598
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 601--604
+[][] 
+ []
+
+[11]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 611--621
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--634
+[]|\OT1/cmr/m/n/12 Eki ^^Sozgeriwshili funkciyan^^P^^Sn an^^Pqlan^^Pw
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--644
+[]|\OT1/cmr/m/n/12 D^^Songelekti^^Sn ishine kvadrat s^^Pz^^Pl^^Sgan.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--644
+\OT1/cmr/m/n/12 D^^Songelekti^^Sn ishi-nen tos^^Pnnan bel-gilen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--644
+\OT1/cmr/m/n/12 gen no-qatt^^P^^Sn kvadratt^^P^^Sn ishinde jat^^Pw
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 646--646
+[]|\OT1/cmr/m/n/12 Differencial te^^Snlemeni^^Sn ul^^Pwma sheshimin
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 648--648
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn j^^Pynaql^^Pl^^Pq oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 626--652
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 655--658
+[][] 
+ []
+
+[12]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 665--675
+[][] 
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 698--698
+[]|\OT1/cmr/m/n/12 "MATEMATIKA" s^^Sozini^^Sn h^^Saripleri b^^Solek
+ []
+
+
+Underfull \hbox (badness 6445) in paragraph at lines 698--698
+\OT1/cmr/m/n/12 kar-tochkalar^^Sga jaz^^Pl^^Pp jaw^^Pp ar-alast^^Pr^^Pl^^Pp
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 680--706
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 709--712
+[][] 
+ []
+
+[13]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 719--729
+[][] 
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 754--754
+[]|\OT1/cmr/m/n/12 Differencial te^^Snlemeni^^Sn ul^^Pwma sheshimin
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 756--756
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn j^^Pynaql^^Pl^^Pq oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 734--760
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 763--766
+[][] 
+ []
+
+[14]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 773--783
+[][] 
+ []
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 806--806
+[]|\OT1/cmr/m/n/12 Telefon nomerdi^^Sn aq^^Pr^^Sg^^P cifras^^Pn um^^Pt^^Pp,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 808--808
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-ern-cial te^^Snlemeni^^Sn uluwma
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 788--814
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 817--820
+[][] 
+ []
+
+[15]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 827--837
+[][] 
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 858--858
+[]|\OT1/cmr/m/n/12 50 buy^^Pmnan ibarat par-tiyada 3 buy^^Pm
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 858--858
+\OT1/cmr/m/n/12 jarams^^Pz. Tos^^Pnnan al^^Pn^^Sgan 8 buy^^Pmn^^P^^Sn
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 860--860
+[]|\OT1/cmr/m/n/12 "BIOLOGIYA" s^^Sozini^^Sn h^^Saripleri b^^Solek
+ []
+
+
+Underfull \hbox (badness 3240) in paragraph at lines 860--860
+\OT1/cmr/m/n/12 kar-tochkalar^^Sga jaz^^Pl^^Pp jaw^^Pp, ar-alast^^Pr^^Pl^^Pp
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 862--862
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-en-cial te^^Snlemeni^^Sn ul-wma
+ []
+
+
+Underfull \hbox (badness 7963) in paragraph at lines 864--864
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn jaq^^Pnlas^^Pw oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 842--868
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 871--874
+[][] 
+ []
+
+[16]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 881--891
+[][] 
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 896--922
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 925--928
+[][] 
+ []
+
+[17]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 935--945
+[][] 
+ []
+
+
+Underfull \hbox (badness 7704) in paragraph at lines 958--958
+[]|\OT1/cmr/m/n/12 O^^Sn a^^Sgzal^^P qatar-lar ush^^Pn j^^Pynaql^^Pl^^Pqt^^P^^S
+n
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 968--968
+[]|\OT1/cmr/m/n/12 Eki ku-bikti bir m^^Sarte tasla^^Sganda t^^Susken
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 968--968
+\OT1/cmr/m/n/12 ochko-lard^^P^^Sn qos^^Pnd^^Ps^^P 4 bol^^Pw iti-mall^^P^^Sg^^Pn
+
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 970--970
+[]|\OT1/cmr/m/n/12 Differencial te^^Snlemeni^^Sn ul^^Pwma sheshimin
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 950--976
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 979--982
+[][] 
+ []
+
+[18]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 989--999
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1010--1010
+[]|[]\OT1/cmr/m/n/12 Ozgeriwshileri aj^^Pral^^Sgan dif-fer-en-ciall^^Pq
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1016--1016
+[]|\OT1/cmr/m/n/12 Racional funkciyan^^P in-te-gralla^^Sn:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1026--1026
+[]|\OT1/cmr/m/n/12 Qatard^^P^^Sn j^^Py^^Pnd^^Ps^^Pn esapla^^Sn:
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 1004--1030
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 1033--1036
+[][] 
+ []
+
+[19]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 1043--1053
+[][] 
+ []
+
+
+Underfull \hbox (badness 2922) in paragraph at lines 1062--1062
+[]|\OT1/cmr/m/n/12 Funkciyan^^P^^Sn $(\OML/cmm/m/it/12 x[]; y[]\OT1/cmr/m/n/12 
+)$ no-qatta^^Sg^^P ^^Suzliksizlik
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 1064--1064
+[]|\OT1/cmr/m/n/12 Itimmall^^Pqt^^P^^Sn ge-ometriyal^^Pq an^^Pqlamas^^Pn^^P^^Sn
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1066--1066
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P def-fer-en-cial te^^Snlemeni^^Sn uluwma
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
+[]|\OT1/cmr/m/n/12 Racional funkciyan^^P in-te-gralla^^Sn:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1076--1076
+[]|\OT1/cmr/m/n/12 D^^Songelekti^^Sn ishine kvadrat s^^Pz^^Pl^^Sgan.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1076--1076
+\OT1/cmr/m/n/12 D^^Songelekti^^Sn ishi-nen tos^^Pnnan bel-gilen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1076--1076
+\OT1/cmr/m/n/12 gen no-qatt^^P^^Sn kvadratt^^P^^Sn ishinde jat^^Pw
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 1078--1078
+[]|\OT1/cmr/m/n/12 Differencial te^^Snlemeni^^Sn ul^^Pwma sheshimin
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 1080--1080
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn j^^Pynaql^^Pl^^Pq oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 1058--1084
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 1087--1090
+[][] 
+ []
+
+[20]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 1097--1107
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1124--1124
+[]|\OT1/cmr/m/n/12 An^^Pq emes in-te-grald^^P esapla^^Sn:
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 1130--1130
+[]|\OT1/cmr/m/n/12 "MATEMATIKA" s^^Sozini^^Sn h^^Saripleri b^^Solek
+ []
+
+
+Underfull \hbox (badness 6445) in paragraph at lines 1130--1130
+\OT1/cmr/m/n/12 kar-tochkalar^^Sga jaz^^Pl^^Pp jaw^^Pp ar-alast^^Pr^^Pl^^Pp
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1132--1132
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-ern-cial te^^Snlemeni^^Sn uluwma
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 1112--1138
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 1141--1144
+[][] 
+ []
+
+[21]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 1151--1161
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1186--1186
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-en-cial te^^Snlemeni^^Sn ul-wma
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 1188--1188
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn j^^Pynaql^^Pl^^Pq oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 1166--1192
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 1195--1198
+[][] 
+ []
+
+[22]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 1205--1215
+[][] 
+ []
+
+
+Underfull \hbox (badness 3965) in paragraph at lines 1230--1230
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-en-ciall^^Pq te^^Snlemeni^^Sn uluwma
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 1236--1236
+[]|\OT1/cmr/m/n/12 50 buy^^Pmnan ibarat par-tiyada 3 buy^^Pm
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 1236--1236
+\OT1/cmr/m/n/12 jarams^^Pz. Tos^^Pnnan al^^Pn^^Sgan 8 buy^^Pmn^^P^^Sn
+ []
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 1238--1238
+[]|\OT1/cmr/m/n/12 Telefon nomerdi^^Sn aq^^Pr^^Sg^^P cifras^^Pn um^^Pt^^Pp,
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 1220--1246
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 1249--1252
+[][] 
+ []
+
+[23]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 1259--1269
+[][] 
+ []
+
+
+Underfull \hbox (badness 1694) in paragraph at lines 1280--1280
+[]|\OT1/cmr/m/n/12 Funkciyan^^P^^Sn an^^Pqlan^^Pw oblast^^P qalay bel-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1292--1292
+[]|\OT1/cmr/m/n/12 "BIOLOGIYA" s^^Sozini^^Sn h^^Saripleri b^^Solek
+ []
+
+
+Underfull \hbox (badness 3240) in paragraph at lines 1292--1292
+\OT1/cmr/m/n/12 kar-tochkalar^^Sga jaz^^Pl^^Pp jaw^^Pp, ar-alast^^Pr^^Pl^^Pp
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 1294--1294
+[]|\OT1/cmr/m/n/12 Differencial te^^Snlemeni^^Sn ul^^Pwma sheshimin
+ []
+
+
+Underfull \hbox (badness 7963) in paragraph at lines 1296--1296
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn jaq^^Pnlas^^Pw oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 1274--1300
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 1303--1306
+[][] 
+ []
+
+[24]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 1313--1323
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1332--1332
+[]|\OT1/cmr/m/n/12 Eki ^^Sozgeriwshili funkciyan^^P^^Sn an^^Pqlan^^Pw
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 1328--1354
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 1357--1360
+[][] 
+ []
+
+[25]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 1367--1377
+[][] 
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 1400--1400
+[]|\OT1/cmr/m/n/12 Eki ku-bikti bir m^^Sarte tasla^^Sganda t^^Susken
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 1400--1400
+\OT1/cmr/m/n/12 ochko-lard^^P^^Sn qos^^Pnd^^Ps^^P 4 bol^^Pw iti-mall^^P^^Sg^^Pn
+
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 1402--1402
+[]|\OT1/cmr/m/n/12 Differencial te^^Snlemeni^^Sn ul^^Pwma sheshimin
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 1382--1408
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 1411--1414
+[][] 
+ []
+
+[26]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 1421--1431
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1456--1456
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-ern-cial te^^Snlemeni^^Sn uluwma
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1458--1458
+[]|\OT1/cmr/m/n/12 Qatard^^P^^Sn j^^Py^^Pnd^^Ps^^Pn esapla^^Sn:
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 1436--1462
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 1465--1468
+[][] 
+ []
+
+[27]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 1475--1485
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1508--1508
+[]|\OT1/cmr/m/n/12 D^^Songelekti^^Sn ishine kvadrat s^^Pz^^Pl^^Sgan.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1508--1508
+\OT1/cmr/m/n/12 D^^Songelekti^^Sn ishi-nen tos^^Pnnan bel-gilen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1508--1508
+\OT1/cmr/m/n/12 gen no-qatt^^P^^Sn kvadratt^^P^^Sn ishinde jat^^Pw
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1510--1510
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-en-cial te^^Snlemeni^^Sn ul-wma
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 1512--1512
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn j^^Pynaql^^Pl^^Pq oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 1490--1516
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 1519--1522
+[][] 
+ []
+
+[28]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 1529--1539
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1556--1556
+[]|\OT1/cmr/m/n/12 Racional funkciyan^^P in-te-gralla^^Sn:
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 1562--1562
+[]|\OT1/cmr/m/n/12 "MATEMATIKA" s^^Sozini^^Sn h^^Saripleri b^^Solek
+ []
+
+
+Underfull \hbox (badness 6445) in paragraph at lines 1562--1562
+\OT1/cmr/m/n/12 kar-tochkalar^^Sga jaz^^Pl^^Pp jaw^^Pp ar-alast^^Pr^^Pl^^Pp
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 1544--1570
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 1573--1576
+[][] 
+ []
+
+[29]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 1583--1593
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1610--1610
+[]|\OT1/cmr/m/n/12 Racional funkciyan^^P in-te-gralla^^Sn:
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 1614--1614
+[]|\OT1/cmr/m/n/12 50 buy^^Pmnan ibarat par-tiyada 3 buy^^Pm
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 1614--1614
+\OT1/cmr/m/n/12 jarams^^Pz. Tos^^Pnnan al^^Pn^^Sgan 8 buy^^Pmn^^P^^Sn
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 1618--1618
+[]|\OT1/cmr/m/n/12 Differencial te^^Snlemeni^^Sn ul^^Pwma sheshimin
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 1620--1620
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn j^^Pynaql^^Pl^^Pq oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 1598--1624
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 1627--1630
+[][] 
+ []
+
+[30]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 1637--1647
+[][] 
+ []
+
+
+Underfull \hbox (badness 7704) in paragraph at lines 1656--1656
+[]|\OT1/cmr/m/n/12 O^^Sn a^^Sgzal^^P qatar-lar ush^^Pn j^^Pynaql^^Pl^^Pqt^^P^^S
+n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1662--1662
+[]|[]\OT1/cmr/m/n/12 Ozgeriwshileri aj^^Pral^^Sgan dif-fer-en-ciall^^Pq
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1664--1664
+[]|\OT1/cmr/m/n/12 An^^Pq emes in-te-grald^^P esapla^^Sn:
+ []
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 1670--1670
+[]|\OT1/cmr/m/n/12 Telefon nomerdi^^Sn aq^^Pr^^Sg^^P cifras^^Pn um^^Pt^^Pp,
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 1652--1678
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 1681--1684
+[][] 
+ []
+
+[31]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 1691--1701
+[][] 
+ []
+
+
+Underfull \hbox (badness 2922) in paragraph at lines 1714--1714
+[]|\OT1/cmr/m/n/12 Funkciyan^^P^^Sn $(\OML/cmm/m/it/12 x[]; y[]\OT1/cmr/m/n/12 
+)$ no-qatta^^Sg^^P ^^Suzliksizlik
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 1716--1716
+[]|\OT1/cmr/m/n/12 Itimmall^^Pqt^^P^^Sn ge-ometriyal^^Pq an^^Pqlamas^^Pn^^P^^Sn
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1724--1724
+[]|\OT1/cmr/m/n/12 "BIOLOGIYA" s^^Sozini^^Sn h^^Saripleri b^^Solek
+ []
+
+
+Underfull \hbox (badness 3240) in paragraph at lines 1724--1724
+\OT1/cmr/m/n/12 kar-tochkalar^^Sga jaz^^Pl^^Pp jaw^^Pp, ar-alast^^Pr^^Pl^^Pp
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 1726--1726
+[]|\OT1/cmr/m/n/12 Differencial te^^Snlemeni^^Sn ul^^Pwma sheshimin
+ []
+
+
+Underfull \hbox (badness 7963) in paragraph at lines 1728--1728
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn jaq^^Pnlas^^Pw oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 1706--1732
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 1735--1738
+[][] 
+ []
+
+[32]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 1745--1755
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1764--1764
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P def-fer-en-cial te^^Snlemeni^^Sn uluwma
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1780--1780
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-ern-cial te^^Snlemeni^^Sn uluwma
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 1760--1786
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 1789--1792
+[][] 
+ []
+
+[33]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 1799--1809
+[][] 
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 1832--1832
+[]|\OT1/cmr/m/n/12 Eki ku-bikti bir m^^Sarte tasla^^Sganda t^^Susken
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 1832--1832
+\OT1/cmr/m/n/12 ochko-lard^^P^^Sn qos^^Pnd^^Ps^^P 4 bol^^Pw iti-mall^^P^^Sg^^Pn
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1834--1834
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-en-cial te^^Snlemeni^^Sn ul-wma
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 1814--1840
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 1843--1846
+[][] 
+ []
+
+[34]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 1853--1863
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1890--1890
+[]|\OT1/cmr/m/n/12 Qatard^^P^^Sn j^^Py^^Pnd^^Ps^^Pn esapla^^Sn:
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 1868--1894
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 1897--1900
+[][] 
+ []
+
+[35]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 1907--1917
+[][] 
+ []
+
+
+Underfull \hbox (badness 3965) in paragraph at lines 1928--1928
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-en-ciall^^Pq te^^Snlemeni^^Sn uluwma
+ []
+
+
+Underfull \hbox (badness 1694) in paragraph at lines 1932--1932
+[]|\OT1/cmr/m/n/12 Funkciyan^^P^^Sn an^^Pqlan^^Pw oblast^^P qalay bel-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1940--1940
+[]|\OT1/cmr/m/n/12 D^^Songelekti^^Sn ishine kvadrat s^^Pz^^Pl^^Sgan.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1940--1940
+\OT1/cmr/m/n/12 D^^Songelekti^^Sn ishi-nen tos^^Pnnan bel-gilen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1940--1940
+\OT1/cmr/m/n/12 gen no-qatt^^P^^Sn kvadratt^^P^^Sn ishinde jat^^Pw
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 1942--1942
+[]|\OT1/cmr/m/n/12 Differencial te^^Snlemeni^^Sn ul^^Pwma sheshimin
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 1944--1944
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn j^^Pynaql^^Pl^^Pq oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 1922--1948
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 1951--1954
+[][] 
+ []
+
+[36]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 1961--1971
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1984--1984
+[]|\OT1/cmr/m/n/12 Eki ^^Sozgeriwshili funkciyan^^P^^Sn an^^Pqlan^^Pw
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 1992--1992
+[]|\OT1/cmr/m/n/12 50 buy^^Pmnan ibarat par-tiyada 3 buy^^Pm
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 1992--1992
+\OT1/cmr/m/n/12 jarams^^Pz. Tos^^Pnnan al^^Pn^^Sgan 8 buy^^Pmn^^P^^Sn
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 1994--1994
+[]|\OT1/cmr/m/n/12 "MATEMATIKA" s^^Sozini^^Sn h^^Saripleri b^^Solek
+ []
+
+
+Underfull \hbox (badness 6445) in paragraph at lines 1994--1994
+\OT1/cmr/m/n/12 kar-tochkalar^^Sga jaz^^Pl^^Pp jaw^^Pp ar-alast^^Pr^^Pl^^Pp
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 1976--2002
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 2005--2008
+[][] 
+ []
+
+[37]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 2015--2025
+[][] 
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 2050--2050
+[]|\OT1/cmr/m/n/12 Differencial te^^Snlemeni^^Sn ul^^Pwma sheshimin
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 2052--2052
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn j^^Pynaql^^Pl^^Pq oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 2030--2056
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 2059--2062
+[][] 
+ []
+
+[38]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 2069--2079
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2096--2096
+[]|\OT1/cmr/m/n/12 Racional funkciyan^^P in-te-gralla^^Sn:
+ []
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 2102--2102
+[]|\OT1/cmr/m/n/12 Telefon nomerdi^^Sn aq^^Pr^^Sg^^P cifras^^Pn um^^Pt^^Pp,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2104--2104
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-ern-cial te^^Snlemeni^^Sn uluwma
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 2084--2110
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 2113--2116
+[][] 
+ []
+
+[39]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 2123--2133
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2150--2150
+[]|\OT1/cmr/m/n/12 Racional funkciyan^^P in-te-gralla^^Sn:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2156--2156
+[]|\OT1/cmr/m/n/12 "BIOLOGIYA" s^^Sozini^^Sn h^^Saripleri b^^Solek
+ []
+
+
+Underfull \hbox (badness 3240) in paragraph at lines 2156--2156
+\OT1/cmr/m/n/12 kar-tochkalar^^Sga jaz^^Pl^^Pp jaw^^Pp, ar-alast^^Pr^^Pl^^Pp
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2158--2158
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-en-cial te^^Snlemeni^^Sn ul-wma
+ []
+
+
+Underfull \hbox (badness 7963) in paragraph at lines 2160--2160
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn jaq^^Pnlas^^Pw oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 2138--2164
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 2167--2170
+[][] 
+ []
+
+[40]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 2177--2187
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2204--2204
+[]|\OT1/cmr/m/n/12 An^^Pq emes in-te-grald^^P esapla^^Sn:
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 2192--2218
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 2221--2224
+[][] 
+ []
+
+[41]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 2231--2241
+[][] 
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 2264--2264
+[]|\OT1/cmr/m/n/12 Eki ku-bikti bir m^^Sarte tasla^^Sganda t^^Susken
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 2264--2264
+\OT1/cmr/m/n/12 ochko-lard^^P^^Sn qos^^Pnd^^Ps^^P 4 bol^^Pw iti-mall^^P^^Sg^^Pn
+
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 2266--2266
+[]|\OT1/cmr/m/n/12 Differencial te^^Snlemeni^^Sn ul^^Pwma sheshimin
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 2246--2272
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 2275--2278
+[][] 
+ []
+
+[42]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 2285--2295
+[][] 
+ []
+
+
+Underfull \hbox (badness 7704) in paragraph at lines 2308--2308
+[]|\OT1/cmr/m/n/12 O^^Sn a^^Sgzal^^P qatar-lar ush^^Pn j^^Pynaql^^Pl^^Pqt^^P^^S
+n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2322--2322
+[]|\OT1/cmr/m/n/12 Qatard^^P^^Sn j^^Py^^Pnd^^Ps^^Pn esapla^^Sn:
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 2300--2326
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 2329--2332
+[][] 
+ []
+
+[43]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 2339--2349
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2360--2360
+[]|[]\OT1/cmr/m/n/12 Ozgeriwshileri aj^^Pral^^Sgan dif-fer-en-ciall^^Pq
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 2370--2370
+[]|\OT1/cmr/m/n/12 50 buy^^Pmnan ibarat par-tiyada 3 buy^^Pm
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 2370--2370
+\OT1/cmr/m/n/12 jarams^^Pz. Tos^^Pnnan al^^Pn^^Sgan 8 buy^^Pmn^^P^^Sn
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2372--2372
+[]|\OT1/cmr/m/n/12 D^^Songelekti^^Sn ishine kvadrat s^^Pz^^Pl^^Sgan.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2372--2372
+\OT1/cmr/m/n/12 D^^Songelekti^^Sn ishi-nen tos^^Pnnan bel-gilen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2372--2372
+\OT1/cmr/m/n/12 gen no-qatt^^P^^Sn kvadratt^^P^^Sn ishinde jat^^Pw
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 2374--2374
+[]|\OT1/cmr/m/n/12 Differencial te^^Snlemeni^^Sn ul^^Pwma sheshimin
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 2376--2376
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn j^^Pynaql^^Pl^^Pq oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 2354--2380
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 2383--2386
+[][] 
+ []
+
+[44]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 2393--2403
+[][] 
+ []
+
+
+Underfull \hbox (badness 2922) in paragraph at lines 2412--2412
+[]|\OT1/cmr/m/n/12 Funkciyan^^P^^Sn $(\OML/cmm/m/it/12 x[]; y[]\OT1/cmr/m/n/12 
+)$ no-qatta^^Sg^^P ^^Suzliksizlik
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 2414--2414
+[]|\OT1/cmr/m/n/12 Itimmall^^Pqt^^P^^Sn ge-ometriyal^^Pq an^^Pqlamas^^Pn^^P^^Sn
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2416--2416
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P def-fer-en-cial te^^Snlemeni^^Sn uluwma
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 2426--2426
+[]|\OT1/cmr/m/n/12 "MATEMATIKA" s^^Sozini^^Sn h^^Saripleri b^^Solek
+ []
+
+
+Underfull \hbox (badness 6445) in paragraph at lines 2426--2426
+\OT1/cmr/m/n/12 kar-tochkalar^^Sga jaz^^Pl^^Pp jaw^^Pp ar-alast^^Pr^^Pl^^Pp
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2428--2428
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-ern-cial te^^Snlemeni^^Sn uluwma
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 2408--2434
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 2437--2440
+[][] 
+ []
+
+[45]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 2447--2457
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2482--2482
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-en-cial te^^Snlemeni^^Sn ul-wma
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 2484--2484
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn j^^Pynaql^^Pl^^Pq oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 2462--2488
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 2491--2494
+[][] 
+ []
+
+[46]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 2501--2511
+[][] 
+ []
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 2534--2534
+[]|\OT1/cmr/m/n/12 Telefon nomerdi^^Sn aq^^Pr^^Sg^^P cifras^^Pn um^^Pt^^Pp,
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 2516--2542
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 2545--2548
+[][] 
+ []
+
+[47]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 2555--2565
+[][] 
+ []
+
+
+Underfull \hbox (badness 3965) in paragraph at lines 2580--2580
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-en-ciall^^Pq te^^Snlemeni^^Sn uluwma
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2588--2588
+[]|\OT1/cmr/m/n/12 "BIOLOGIYA" s^^Sozini^^Sn h^^Saripleri b^^Solek
+ []
+
+
+Underfull \hbox (badness 3240) in paragraph at lines 2588--2588
+\OT1/cmr/m/n/12 kar-tochkalar^^Sga jaz^^Pl^^Pp jaw^^Pp, ar-alast^^Pr^^Pl^^Pp
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 2590--2590
+[]|\OT1/cmr/m/n/12 Differencial te^^Snlemeni^^Sn ul^^Pwma sheshimin
+ []
+
+
+Underfull \hbox (badness 7963) in paragraph at lines 2592--2592
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn jaq^^Pnlas^^Pw oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 2570--2596
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 2599--2602
+[][] 
+ []
+
+[48]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 2609--2619
+[][] 
+ []
+
+
+Underfull \hbox (badness 1694) in paragraph at lines 2630--2630
+[]|\OT1/cmr/m/n/12 Funkciyan^^P^^Sn an^^Pqlan^^Pw oblast^^P qalay bel-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2636--2636
+[]|\OT1/cmr/m/n/12 Racional funkciyan^^P in-te-gralla^^Sn:
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 2624--2650
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 2653--2656
+[][] 
+ []
+
+[49]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 2663--2673
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2682--2682
+[]|\OT1/cmr/m/n/12 Eki ^^Sozgeriwshili funkciyan^^P^^Sn an^^Pqlan^^Pw
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2690--2690
+[]|\OT1/cmr/m/n/12 Racional funkciyan^^P in-te-gralla^^Sn:
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 2696--2696
+[]|\OT1/cmr/m/n/12 Eki ku-bikti bir m^^Sarte tasla^^Sganda t^^Susken
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 2696--2696
+\OT1/cmr/m/n/12 ochko-lard^^P^^Sn qos^^Pnd^^Ps^^P 4 bol^^Pw iti-mall^^P^^Sg^^Pn
+
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 2698--2698
+[]|\OT1/cmr/m/n/12 Differencial te^^Snlemeni^^Sn ul^^Pwma sheshimin
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 2678--2704
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 2707--2710
+[][] 
+ []
+
+[50]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 2717--2727
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2744--2744
+[]|\OT1/cmr/m/n/12 An^^Pq emes in-te-grald^^P esapla^^Sn:
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 2748--2748
+[]|\OT1/cmr/m/n/12 50 buy^^Pmnan ibarat par-tiyada 3 buy^^Pm
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 2748--2748
+\OT1/cmr/m/n/12 jarams^^Pz. Tos^^Pnnan al^^Pn^^Sgan 8 buy^^Pmn^^P^^Sn
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2752--2752
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-ern-cial te^^Snlemeni^^Sn uluwma
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2754--2754
+[]|\OT1/cmr/m/n/12 Qatard^^P^^Sn j^^Py^^Pnd^^Ps^^Pn esapla^^Sn:
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 2732--2758
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 2761--2764
+[][] 
+ []
+
+[51]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 2771--2781
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2804--2804
+[]|\OT1/cmr/m/n/12 D^^Songelekti^^Sn ishine kvadrat s^^Pz^^Pl^^Sgan.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2804--2804
+\OT1/cmr/m/n/12 D^^Songelekti^^Sn ishi-nen tos^^Pnnan bel-gilen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2804--2804
+\OT1/cmr/m/n/12 gen no-qatt^^P^^Sn kvadratt^^P^^Sn ishinde jat^^Pw
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2806--2806
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-en-cial te^^Snlemeni^^Sn ul-wma
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 2808--2808
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn j^^Pynaql^^Pl^^Pq oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 2786--2812
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 2815--2818
+[][] 
+ []
+
+[52]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 2825--2835
+[][] 
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 2858--2858
+[]|\OT1/cmr/m/n/12 "MATEMATIKA" s^^Sozini^^Sn h^^Saripleri b^^Solek
+ []
+
+
+Underfull \hbox (badness 6445) in paragraph at lines 2858--2858
+\OT1/cmr/m/n/12 kar-tochkalar^^Sga jaz^^Pl^^Pp jaw^^Pp ar-alast^^Pr^^Pl^^Pp
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 2840--2866
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 2869--2872
+[][] 
+ []
+
+[53]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 2879--2889
+[][] 
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 2914--2914
+[]|\OT1/cmr/m/n/12 Differencial te^^Snlemeni^^Sn ul^^Pwma sheshimin
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 2916--2916
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn j^^Pynaql^^Pl^^Pq oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 2894--2920
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 2923--2926
+[][] 
+ []
+
+[54]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 2933--2943
+[][] 
+ []
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 2966--2966
+[]|\OT1/cmr/m/n/12 Telefon nomerdi^^Sn aq^^Pr^^Sg^^P cifras^^Pn um^^Pt^^Pp,
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 2948--2974
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 2977--2980
+[][] 
+ []
+
+[55]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 2987--2997
+[][] 
+ []
+
+
+Underfull \hbox (badness 7704) in paragraph at lines 3006--3006
+[]|\OT1/cmr/m/n/12 O^^Sn a^^Sgzal^^P qatar-lar ush^^Pn j^^Pynaql^^Pl^^Pqt^^P^^S
+n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3012--3012
+[]|[]\OT1/cmr/m/n/12 Ozgeriwshileri aj^^Pral^^Sgan dif-fer-en-ciall^^Pq
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3020--3020
+[]|\OT1/cmr/m/n/12 "BIOLOGIYA" s^^Sozini^^Sn h^^Saripleri b^^Solek
+ []
+
+
+Underfull \hbox (badness 3240) in paragraph at lines 3020--3020
+\OT1/cmr/m/n/12 kar-tochkalar^^Sga jaz^^Pl^^Pp jaw^^Pp, ar-alast^^Pr^^Pl^^Pp
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 3022--3022
+[]|\OT1/cmr/m/n/12 Differencial te^^Snlemeni^^Sn ul^^Pwma sheshimin
+ []
+
+
+Underfull \hbox (badness 7963) in paragraph at lines 3024--3024
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn jaq^^Pnlas^^Pw oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 3002--3028
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 3031--3034
+[][] 
+ []
+
+[56]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 3041--3051
+[][] 
+ []
+
+
+Underfull \hbox (badness 2922) in paragraph at lines 3064--3064
+[]|\OT1/cmr/m/n/12 Funkciyan^^P^^Sn $(\OML/cmm/m/it/12 x[]; y[]\OT1/cmr/m/n/12 
+)$ no-qatta^^Sg^^P ^^Suzliksizlik
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 3066--3066
+[]|\OT1/cmr/m/n/12 Itimmall^^Pqt^^P^^Sn ge-ometriyal^^Pq an^^Pqlamas^^Pn^^P^^Sn
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3076--3076
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-ern-cial te^^Snlemeni^^Sn uluwma
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 3056--3082
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 3085--3088
+[][] 
+ []
+
+[57]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 3095--3105
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3114--3114
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P def-fer-en-cial te^^Snlemeni^^Sn uluwma
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 3126--3126
+[]|\OT1/cmr/m/n/12 50 buy^^Pmnan ibarat par-tiyada 3 buy^^Pm
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 3126--3126
+\OT1/cmr/m/n/12 jarams^^Pz. Tos^^Pnnan al^^Pn^^Sgan 8 buy^^Pmn^^P^^Sn
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 3128--3128
+[]|\OT1/cmr/m/n/12 Eki ku-bikti bir m^^Sarte tasla^^Sganda t^^Susken
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 3128--3128
+\OT1/cmr/m/n/12 ochko-lard^^P^^Sn qos^^Pnd^^Ps^^P 4 bol^^Pw iti-mall^^P^^Sg^^Pn
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3130--3130
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-en-cial te^^Snlemeni^^Sn ul-wma
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 3110--3136
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 3139--3142
+[][] 
+ []
+
+[58]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 3149--3159
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3176--3176
+[]|\OT1/cmr/m/n/12 Racional funkciyan^^P in-te-gralla^^Sn:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3186--3186
+[]|\OT1/cmr/m/n/12 Qatard^^P^^Sn j^^Py^^Pnd^^Ps^^Pn esapla^^Sn:
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 3164--3190
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 3193--3196
+[][] 
+ []
+
+[59]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 3203--3213
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3230--3230
+[]|\OT1/cmr/m/n/12 Racional funkciyan^^P in-te-gralla^^Sn:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3236--3236
+[]|\OT1/cmr/m/n/12 D^^Songelekti^^Sn ishine kvadrat s^^Pz^^Pl^^Sgan.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3236--3236
+\OT1/cmr/m/n/12 D^^Songelekti^^Sn ishi-nen tos^^Pnnan bel-gilen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3236--3236
+\OT1/cmr/m/n/12 gen no-qatt^^P^^Sn kvadratt^^P^^Sn ishinde jat^^Pw
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 3238--3238
+[]|\OT1/cmr/m/n/12 Differencial te^^Snlemeni^^Sn ul^^Pwma sheshimin
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 3240--3240
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn j^^Pynaql^^Pl^^Pq oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 3218--3244
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 3247--3250
+[][] 
+ []
+
+[60]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 3257--3267
+[][] 
+ []
+
+
+Underfull \hbox (badness 3965) in paragraph at lines 3278--3278
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-en-ciall^^Pq te^^Snlemeni^^Sn uluwma
+ []
+
+
+Underfull \hbox (badness 1694) in paragraph at lines 3282--3282
+[]|\OT1/cmr/m/n/12 Funkciyan^^P^^Sn an^^Pqlan^^Pw oblast^^P qalay bel-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3284--3284
+[]|\OT1/cmr/m/n/12 An^^Pq emes in-te-grald^^P esapla^^Sn:
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 3290--3290
+[]|\OT1/cmr/m/n/12 "MATEMATIKA" s^^Sozini^^Sn h^^Saripleri b^^Solek
+ []
+
+
+Underfull \hbox (badness 6445) in paragraph at lines 3290--3290
+\OT1/cmr/m/n/12 kar-tochkalar^^Sga jaz^^Pl^^Pp jaw^^Pp ar-alast^^Pr^^Pl^^Pp
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 3272--3298
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 3301--3304
+[][] 
+ []
+
+[61]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 3311--3321
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3334--3334
+[]|\OT1/cmr/m/n/12 Eki ^^Sozgeriwshili funkciyan^^P^^Sn an^^Pqlan^^Pw
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 3346--3346
+[]|\OT1/cmr/m/n/12 Differencial te^^Snlemeni^^Sn ul^^Pwma sheshimin
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 3348--3348
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn j^^Pynaql^^Pl^^Pq oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 3326--3352
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 3355--3358
+[][] 
+ []
+
+[62]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 3365--3375
+[][] 
+ []
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 3398--3398
+[]|\OT1/cmr/m/n/12 Telefon nomerdi^^Sn aq^^Pr^^Sg^^P cifras^^Pn um^^Pt^^Pp,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3400--3400
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-ern-cial te^^Snlemeni^^Sn uluwma
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 3380--3406
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 3409--3412
+[][] 
+ []
+
+[63]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 3419--3429
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3452--3452
+[]|\OT1/cmr/m/n/12 "BIOLOGIYA" s^^Sozini^^Sn h^^Saripleri b^^Solek
+ []
+
+
+Underfull \hbox (badness 3240) in paragraph at lines 3452--3452
+\OT1/cmr/m/n/12 kar-tochkalar^^Sga jaz^^Pl^^Pp jaw^^Pp, ar-alast^^Pr^^Pl^^Pp
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3454--3454
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-en-cial te^^Snlemeni^^Sn ul-wma
+ []
+
+
+Underfull \hbox (badness 7963) in paragraph at lines 3456--3456
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn jaq^^Pnlas^^Pw oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 3434--3460
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 3463--3466
+[][] 
+ []
+
+[64]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 3473--3483
+[][] 
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 3504--3504
+[]|\OT1/cmr/m/n/12 50 buy^^Pmnan ibarat par-tiyada 3 buy^^Pm
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 3504--3504
+\OT1/cmr/m/n/12 jarams^^Pz. Tos^^Pnnan al^^Pn^^Sgan 8 buy^^Pmn^^P^^Sn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 3488--3514
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 3517--3520
+[][] 
+ []
+
+[65]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 3527--3537
+[][] 
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 3560--3560
+[]|\OT1/cmr/m/n/12 Eki ku-bikti bir m^^Sarte tasla^^Sganda t^^Susken
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 3560--3560
+\OT1/cmr/m/n/12 ochko-lard^^P^^Sn qos^^Pnd^^Ps^^P 4 bol^^Pw iti-mall^^P^^Sg^^Pn
+
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 3562--3562
+[]|\OT1/cmr/m/n/12 Differencial te^^Snlemeni^^Sn ul^^Pwma sheshimin
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 3542--3568
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 3571--3574
+[][] 
+ []
+
+[66]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 3581--3591
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3618--3618
+[]|\OT1/cmr/m/n/12 Qatard^^P^^Sn j^^Py^^Pnd^^Ps^^Pn esapla^^Sn:
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 3596--3622
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 3625--3628
+[][] 
+ []
+
+[67]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 3635--3645
+[][] 
+ []
+
+
+Underfull \hbox (badness 7704) in paragraph at lines 3658--3658
+[]|\OT1/cmr/m/n/12 O^^Sn a^^Sgzal^^P qatar-lar ush^^Pn j^^Pynaql^^Pl^^Pqt^^P^^S
+n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3668--3668
+[]|\OT1/cmr/m/n/12 D^^Songelekti^^Sn ishine kvadrat s^^Pz^^Pl^^Sgan.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3668--3668
+\OT1/cmr/m/n/12 D^^Songelekti^^Sn ishi-nen tos^^Pnnan bel-gilen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3668--3668
+\OT1/cmr/m/n/12 gen no-qatt^^P^^Sn kvadratt^^P^^Sn ishinde jat^^Pw
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 3670--3670
+[]|\OT1/cmr/m/n/12 Differencial te^^Snlemeni^^Sn ul^^Pwma sheshimin
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 3672--3672
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn j^^Pynaql^^Pl^^Pq oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 3650--3676
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 3679--3682
+[][] 
+ []
+
+[68]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 3689--3699
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3710--3710
+[]|[]\OT1/cmr/m/n/12 Ozgeriwshileri aj^^Pral^^Sgan dif-fer-en-ciall^^Pq
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3716--3716
+[]|\OT1/cmr/m/n/12 Racional funkciyan^^P in-te-gralla^^Sn:
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 3722--3722
+[]|\OT1/cmr/m/n/12 "MATEMATIKA" s^^Sozini^^Sn h^^Saripleri b^^Solek
+ []
+
+
+Underfull \hbox (badness 6445) in paragraph at lines 3722--3722
+\OT1/cmr/m/n/12 kar-tochkalar^^Sga jaz^^Pl^^Pp jaw^^Pp ar-alast^^Pr^^Pl^^Pp
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3724--3724
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-ern-cial te^^Snlemeni^^Sn uluwma
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 3704--3730
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 3733--3736
+[][] 
+ []
+
+[69]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 3743--3753
+[][] 
+ []
+
+
+Underfull \hbox (badness 2922) in paragraph at lines 3762--3762
+[]|\OT1/cmr/m/n/12 Funkciyan^^P^^Sn $(\OML/cmm/m/it/12 x[]; y[]\OT1/cmr/m/n/12 
+)$ no-qatta^^Sg^^P ^^Suzliksizlik
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 3764--3764
+[]|\OT1/cmr/m/n/12 Itimmall^^Pqt^^P^^Sn ge-ometriyal^^Pq an^^Pqlamas^^Pn^^P^^Sn
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3766--3766
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P def-fer-en-cial te^^Snlemeni^^Sn uluwma
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3770--3770
+[]|\OT1/cmr/m/n/12 Racional funkciyan^^P in-te-gralla^^Sn:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3778--3778
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-en-cial te^^Snlemeni^^Sn ul-wma
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 3780--3780
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn j^^Pynaql^^Pl^^Pq oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 3758--3784
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 3787--3790
+[][] 
+ []
+
+[70]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 3797--3807
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3824--3824
+[]|\OT1/cmr/m/n/12 An^^Pq emes in-te-grald^^P esapla^^Sn:
+ []
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 3830--3830
+[]|\OT1/cmr/m/n/12 Telefon nomerdi^^Sn aq^^Pr^^Sg^^P cifras^^Pn um^^Pt^^Pp,
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 3812--3838
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 3841--3844
+[][] 
+ []
+
+[71]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 3851--3861
+[][] 
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 3882--3882
+[]|\OT1/cmr/m/n/12 50 buy^^Pmnan ibarat par-tiyada 3 buy^^Pm
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 3882--3882
+\OT1/cmr/m/n/12 jarams^^Pz. Tos^^Pnnan al^^Pn^^Sgan 8 buy^^Pmn^^P^^Sn
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3884--3884
+[]|\OT1/cmr/m/n/12 "BIOLOGIYA" s^^Sozini^^Sn h^^Saripleri b^^Solek
+ []
+
+
+Underfull \hbox (badness 3240) in paragraph at lines 3884--3884
+\OT1/cmr/m/n/12 kar-tochkalar^^Sga jaz^^Pl^^Pp jaw^^Pp, ar-alast^^Pr^^Pl^^Pp
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 3886--3886
+[]|\OT1/cmr/m/n/12 Differencial te^^Snlemeni^^Sn ul^^Pwma sheshimin
+ []
+
+
+Underfull \hbox (badness 7963) in paragraph at lines 3888--3888
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn jaq^^Pnlas^^Pw oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 3866--3892
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 3895--3898
+[][] 
+ []
+
+[72]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 3905--3915
+[][] 
+ []
+
+
+Underfull \hbox (badness 3965) in paragraph at lines 3930--3930
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-en-ciall^^Pq te^^Snlemeni^^Sn uluwma
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 3920--3946
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 3949--3952
+[][] 
+ []
+
+[73]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 3959--3969
+[][] 
+ []
+
+
+Underfull \hbox (badness 1694) in paragraph at lines 3980--3980
+[]|\OT1/cmr/m/n/12 Funkciyan^^P^^Sn an^^Pqlan^^Pw oblast^^P qalay bel-
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 3992--3992
+[]|\OT1/cmr/m/n/12 Eki ku-bikti bir m^^Sarte tasla^^Sganda t^^Susken
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 3992--3992
+\OT1/cmr/m/n/12 ochko-lard^^P^^Sn qos^^Pnd^^Ps^^P 4 bol^^Pw iti-mall^^P^^Sg^^Pn
+
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 3994--3994
+[]|\OT1/cmr/m/n/12 Differencial te^^Snlemeni^^Sn ul^^Pwma sheshimin
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 3974--4000
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 4003--4006
+[][] 
+ []
+
+[74]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 4013--4023
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4032--4032
+[]|\OT1/cmr/m/n/12 Eki ^^Sozgeriwshili funkciyan^^P^^Sn an^^Pqlan^^Pw
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4048--4048
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-ern-cial te^^Snlemeni^^Sn uluwma
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4050--4050
+[]|\OT1/cmr/m/n/12 Qatard^^P^^Sn j^^Py^^Pnd^^Ps^^Pn esapla^^Sn:
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 4028--4054
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 4057--4060
+[][] 
+ []
+
+[75]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 4067--4077
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4100--4100
+[]|\OT1/cmr/m/n/12 D^^Songelekti^^Sn ishine kvadrat s^^Pz^^Pl^^Sgan.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4100--4100
+\OT1/cmr/m/n/12 D^^Songelekti^^Sn ishi-nen tos^^Pnnan bel-gilen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4100--4100
+\OT1/cmr/m/n/12 gen no-qatt^^P^^Sn kvadratt^^P^^Sn ishinde jat^^Pw
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4102--4102
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-en-cial te^^Snlemeni^^Sn ul-wma
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 4104--4104
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn j^^Pynaql^^Pl^^Pq oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 4082--4108
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 4111--4114
+[][] 
+ []
+
+[76]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 4121--4131
+[][] 
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 4154--4154
+[]|\OT1/cmr/m/n/12 "MATEMATIKA" s^^Sozini^^Sn h^^Saripleri b^^Solek
+ []
+
+
+Underfull \hbox (badness 6445) in paragraph at lines 4154--4154
+\OT1/cmr/m/n/12 kar-tochkalar^^Sga jaz^^Pl^^Pp jaw^^Pp ar-alast^^Pr^^Pl^^Pp
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 4136--4162
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 4165--4168
+[][] 
+ []
+
+[77]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 4175--4185
+[][] 
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 4210--4210
+[]|\OT1/cmr/m/n/12 Differencial te^^Snlemeni^^Sn ul^^Pwma sheshimin
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 4212--4212
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn j^^Pynaql^^Pl^^Pq oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 4190--4216
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 4219--4222
+[][] 
+ []
+
+[78]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 4229--4239
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4256--4256
+[]|\OT1/cmr/m/n/12 Racional funkciyan^^P in-te-gralla^^Sn:
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 4260--4260
+[]|\OT1/cmr/m/n/12 50 buy^^Pmnan ibarat par-tiyada 3 buy^^Pm
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 4260--4260
+\OT1/cmr/m/n/12 jarams^^Pz. Tos^^Pnnan al^^Pn^^Sgan 8 buy^^Pmn^^P^^Sn
+ []
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 4262--4262
+[]|\OT1/cmr/m/n/12 Telefon nomerdi^^Sn aq^^Pr^^Sg^^P cifras^^Pn um^^Pt^^Pp,
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 4244--4270
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 4273--4276
+[][] 
+ []
+
+[79]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 4283--4293
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4310--4310
+[]|\OT1/cmr/m/n/12 Racional funkciyan^^P in-te-gralla^^Sn:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4316--4316
+[]|\OT1/cmr/m/n/12 "BIOLOGIYA" s^^Sozini^^Sn h^^Saripleri b^^Solek
+ []
+
+
+Underfull \hbox (badness 3240) in paragraph at lines 4316--4316
+\OT1/cmr/m/n/12 kar-tochkalar^^Sga jaz^^Pl^^Pp jaw^^Pp, ar-alast^^Pr^^Pl^^Pp
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 4318--4318
+[]|\OT1/cmr/m/n/12 Differencial te^^Snlemeni^^Sn ul^^Pwma sheshimin
+ []
+
+
+Underfull \hbox (badness 7963) in paragraph at lines 4320--4320
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn jaq^^Pnlas^^Pw oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 4298--4324
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 4327--4330
+[][] 
+ []
+
+[80]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 4337--4347
+[][] 
+ []
+
+
+Underfull \hbox (badness 7704) in paragraph at lines 4356--4356
+[]|\OT1/cmr/m/n/12 O^^Sn a^^Sgzal^^P qatar-lar ush^^Pn j^^Pynaql^^Pl^^Pqt^^P^^S
+n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4362--4362
+[]|[]\OT1/cmr/m/n/12 Ozgeriwshileri aj^^Pral^^Sgan dif-fer-en-ciall^^Pq
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4364--4364
+[]|\OT1/cmr/m/n/12 An^^Pq emes in-te-grald^^P esapla^^Sn:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4372--4372
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-ern-cial te^^Snlemeni^^Sn uluwma
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 4352--4378
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 4381--4384
+[][] 
+ []
+
+[81]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 4391--4401
+[][] 
+ []
+
+
+Underfull \hbox (badness 2922) in paragraph at lines 4414--4414
+[]|\OT1/cmr/m/n/12 Funkciyan^^P^^Sn $(\OML/cmm/m/it/12 x[]; y[]\OT1/cmr/m/n/12 
+)$ no-qatta^^Sg^^P ^^Suzliksizlik
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 4416--4416
+[]|\OT1/cmr/m/n/12 Itimmall^^Pqt^^P^^Sn ge-ometriyal^^Pq an^^Pqlamas^^Pn^^P^^Sn
+
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 4424--4424
+[]|\OT1/cmr/m/n/12 Eki ku-bikti bir m^^Sarte tasla^^Sganda t^^Susken
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 4424--4424
+\OT1/cmr/m/n/12 ochko-lard^^P^^Sn qos^^Pnd^^Ps^^P 4 bol^^Pw iti-mall^^P^^Sg^^Pn
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4426--4426
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-en-cial te^^Snlemeni^^Sn ul-wma
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 4406--4432
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 4435--4438
+[][] 
+ []
+
+[82]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 4445--4455
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4464--4464
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P def-fer-en-cial te^^Snlemeni^^Sn uluwma
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4482--4482
+[]|\OT1/cmr/m/n/12 Qatard^^P^^Sn j^^Py^^Pnd^^Ps^^Pn esapla^^Sn:
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 4460--4486
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 4489--4492
+[][] 
+ []
+
+[83]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 4499--4509
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4532--4532
+[]|\OT1/cmr/m/n/12 D^^Songelekti^^Sn ishine kvadrat s^^Pz^^Pl^^Sgan.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4532--4532
+\OT1/cmr/m/n/12 D^^Songelekti^^Sn ishi-nen tos^^Pnnan bel-gilen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4532--4532
+\OT1/cmr/m/n/12 gen no-qatt^^P^^Sn kvadratt^^P^^Sn ishinde jat^^Pw
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 4534--4534
+[]|\OT1/cmr/m/n/12 Differencial te^^Snlemeni^^Sn ul^^Pwma sheshimin
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 4536--4536
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn j^^Pynaql^^Pl^^Pq oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 4514--4540
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 4543--4546
+[][] 
+ []
+
+[84]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 4553--4563
+[][] 
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 4586--4586
+[]|\OT1/cmr/m/n/12 "MATEMATIKA" s^^Sozini^^Sn h^^Saripleri b^^Solek
+ []
+
+
+Underfull \hbox (badness 6445) in paragraph at lines 4586--4586
+\OT1/cmr/m/n/12 kar-tochkalar^^Sga jaz^^Pl^^Pp jaw^^Pp ar-alast^^Pr^^Pl^^Pp
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 4568--4594
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 4597--4600
+[][] 
+ []
+
+[85]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 4607--4617
+[][] 
+ []
+
+
+Underfull \hbox (badness 3965) in paragraph at lines 4628--4628
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-en-ciall^^Pq te^^Snlemeni^^Sn uluwma
+ []
+
+
+Underfull \hbox (badness 1694) in paragraph at lines 4632--4632
+[]|\OT1/cmr/m/n/12 Funkciyan^^P^^Sn an^^Pqlan^^Pw oblast^^P qalay bel-
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 4638--4638
+[]|\OT1/cmr/m/n/12 50 buy^^Pmnan ibarat par-tiyada 3 buy^^Pm
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 4638--4638
+\OT1/cmr/m/n/12 jarams^^Pz. Tos^^Pnnan al^^Pn^^Sgan 8 buy^^Pmn^^P^^Sn
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 4642--4642
+[]|\OT1/cmr/m/n/12 Differencial te^^Snlemeni^^Sn ul^^Pwma sheshimin
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 4644--4644
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn j^^Pynaql^^Pl^^Pq oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 4622--4648
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 4651--4654
+[][] 
+ []
+
+[86]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 4661--4671
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4684--4684
+[]|\OT1/cmr/m/n/12 Eki ^^Sozgeriwshili funkciyan^^P^^Sn an^^Pqlan^^Pw
+ []
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 4694--4694
+[]|\OT1/cmr/m/n/12 Telefon nomerdi^^Sn aq^^Pr^^Sg^^P cifras^^Pn um^^Pt^^Pp,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4696--4696
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-ern-cial te^^Snlemeni^^Sn uluwma
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 4676--4702
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 4705--4708
+[][] 
+ []
+
+[87]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 4715--4725
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4748--4748
+[]|\OT1/cmr/m/n/12 "BIOLOGIYA" s^^Sozini^^Sn h^^Saripleri b^^Solek
+ []
+
+
+Underfull \hbox (badness 3240) in paragraph at lines 4748--4748
+\OT1/cmr/m/n/12 kar-tochkalar^^Sga jaz^^Pl^^Pp jaw^^Pp, ar-alast^^Pr^^Pl^^Pp
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4750--4750
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-en-cial te^^Snlemeni^^Sn ul-wma
+ []
+
+
+Underfull \hbox (badness 7963) in paragraph at lines 4752--4752
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn jaq^^Pnlas^^Pw oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 4730--4756
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 4759--4762
+[][] 
+ []
+
+[88]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 4769--4779
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4796--4796
+[]|\OT1/cmr/m/n/12 Racional funkciyan^^P in-te-gralla^^Sn:
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 4784--4810
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 4813--4816
+[][] 
+ []
+
+[89]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 4823--4833
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4850--4850
+[]|\OT1/cmr/m/n/12 Racional funkciyan^^P in-te-gralla^^Sn:
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 4856--4856
+[]|\OT1/cmr/m/n/12 Eki ku-bikti bir m^^Sarte tasla^^Sganda t^^Susken
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 4856--4856
+\OT1/cmr/m/n/12 ochko-lard^^P^^Sn qos^^Pnd^^Ps^^P 4 bol^^Pw iti-mall^^P^^Sg^^Pn
+
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 4858--4858
+[]|\OT1/cmr/m/n/12 Differencial te^^Snlemeni^^Sn ul^^Pwma sheshimin
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 4838--4864
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 4867--4870
+[][] 
+ []
+
+[90]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 4877--4887
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4904--4904
+[]|\OT1/cmr/m/n/12 An^^Pq emes in-te-grald^^P esapla^^Sn:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4914--4914
+[]|\OT1/cmr/m/n/12 Qatard^^P^^Sn j^^Py^^Pnd^^Ps^^Pn esapla^^Sn:
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 4892--4918
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 4921--4924
+[][] 
+ []
+
+[91]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 4931--4941
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4964--4964
+[]|\OT1/cmr/m/n/12 D^^Songelekti^^Sn ishine kvadrat s^^Pz^^Pl^^Sgan.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4964--4964
+\OT1/cmr/m/n/12 D^^Songelekti^^Sn ishi-nen tos^^Pnnan bel-gilen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4964--4964
+\OT1/cmr/m/n/12 gen no-qatt^^P^^Sn kvadratt^^P^^Sn ishinde jat^^Pw
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 4966--4966
+[]|\OT1/cmr/m/n/12 Differencial te^^Snlemeni^^Sn ul^^Pwma sheshimin
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 4968--4968
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn j^^Pynaql^^Pl^^Pq oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 4946--4972
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 4975--4978
+[][] 
+ []
+
+[92]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 4985--4995
+[][] 
+ []
+
+
+Underfull \hbox (badness 7704) in paragraph at lines 5008--5008
+[]|\OT1/cmr/m/n/12 O^^Sn a^^Sgzal^^P qatar-lar ush^^Pn j^^Pynaql^^Pl^^Pqt^^P^^S
+n
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 5016--5016
+[]|\OT1/cmr/m/n/12 50 buy^^Pmnan ibarat par-tiyada 3 buy^^Pm
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 5016--5016
+\OT1/cmr/m/n/12 jarams^^Pz. Tos^^Pnnan al^^Pn^^Sgan 8 buy^^Pmn^^P^^Sn
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 5018--5018
+[]|\OT1/cmr/m/n/12 "MATEMATIKA" s^^Sozini^^Sn h^^Saripleri b^^Solek
+ []
+
+
+Underfull \hbox (badness 6445) in paragraph at lines 5018--5018
+\OT1/cmr/m/n/12 kar-tochkalar^^Sga jaz^^Pl^^Pp jaw^^Pp ar-alast^^Pr^^Pl^^Pp
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5020--5020
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-ern-cial te^^Snlemeni^^Sn uluwma
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 5000--5026
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 5029--5032
+[][] 
+ []
+
+[93]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 5039--5049
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5060--5060
+[]|[]\OT1/cmr/m/n/12 Ozgeriwshileri aj^^Pral^^Sgan dif-fer-en-ciall^^Pq
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5074--5074
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-en-cial te^^Snlemeni^^Sn ul-wma
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 5076--5076
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn j^^Pynaql^^Pl^^Pq oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 5054--5080
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 5083--5086
+[][] 
+ []
+
+[94]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 5093--5103
+[][] 
+ []
+
+
+Underfull \hbox (badness 2922) in paragraph at lines 5112--5112
+[]|\OT1/cmr/m/n/12 Funkciyan^^P^^Sn $(\OML/cmm/m/it/12 x[]; y[]\OT1/cmr/m/n/12 
+)$ no-qatta^^Sg^^P ^^Suzliksizlik
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 5114--5114
+[]|\OT1/cmr/m/n/12 Itimmall^^Pqt^^P^^Sn ge-ometriyal^^Pq an^^Pqlamas^^Pn^^P^^Sn
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5116--5116
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P def-fer-en-cial te^^Snlemeni^^Sn uluwma
+ []
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 5126--5126
+[]|\OT1/cmr/m/n/12 Telefon nomerdi^^Sn aq^^Pr^^Sg^^P cifras^^Pn um^^Pt^^Pp,
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 5108--5134
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 5137--5140
+[][] 
+ []
+
+[95]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 5147--5157
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5180--5180
+[]|\OT1/cmr/m/n/12 "BIOLOGIYA" s^^Sozini^^Sn h^^Saripleri b^^Solek
+ []
+
+
+Underfull \hbox (badness 3240) in paragraph at lines 5180--5180
+\OT1/cmr/m/n/12 kar-tochkalar^^Sga jaz^^Pl^^Pp jaw^^Pp, ar-alast^^Pr^^Pl^^Pp
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 5182--5182
+[]|\OT1/cmr/m/n/12 Differencial te^^Snlemeni^^Sn ul^^Pwma sheshimin
+ []
+
+
+Underfull \hbox (badness 7963) in paragraph at lines 5184--5184
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn jaq^^Pnlas^^Pw oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 5162--5188
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 5191--5194
+[][] 
+ []
+
+[96]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 5201--5211
+[][] 
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 5216--5242
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 5245--5248
+[][] 
+ []
+
+[97]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 5255--5265
+[][] 
+ []
+
+
+Underfull \hbox (badness 3965) in paragraph at lines 5280--5280
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-en-ciall^^Pq te^^Snlemeni^^Sn uluwma
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 5288--5288
+[]|\OT1/cmr/m/n/12 Eki ku-bikti bir m^^Sarte tasla^^Sganda t^^Susken
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 5288--5288
+\OT1/cmr/m/n/12 ochko-lard^^P^^Sn qos^^Pnd^^Ps^^P 4 bol^^Pw iti-mall^^P^^Sg^^Pn
+
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 5290--5290
+[]|\OT1/cmr/m/n/12 Differencial te^^Snlemeni^^Sn ul^^Pwma sheshimin
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 5270--5296
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 5299--5302
+[][] 
+ []
+
+[98]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 5309--5319
+[][] 
+ []
+
+
+Underfull \hbox (badness 1694) in paragraph at lines 5330--5330
+[]|\OT1/cmr/m/n/12 Funkciyan^^P^^Sn an^^Pqlan^^Pw oblast^^P qalay bel-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5336--5336
+[]|\OT1/cmr/m/n/12 Racional funkciyan^^P in-te-gralla^^Sn:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5344--5344
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-ern-cial te^^Snlemeni^^Sn uluwma
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5346--5346
+[]|\OT1/cmr/m/n/12 Qatard^^P^^Sn j^^Py^^Pnd^^Ps^^Pn esapla^^Sn:
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 5324--5350
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 5353--5356
+[][] 
+ []
+
+[99]
+Overfull \hbox (30.2424pt too wide) in paragraph at lines 5363--5373
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5382--5382
+[]|\OT1/cmr/m/n/12 Eki ^^Sozgeriwshili funkciyan^^P^^Sn an^^Pqlan^^Pw
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5390--5390
+[]|\OT1/cmr/m/n/12 Racional funkciyan^^P in-te-gralla^^Sn:
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 5394--5394
+[]|\OT1/cmr/m/n/12 50 buy^^Pmnan ibarat par-tiyada 3 buy^^Pm
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 5394--5394
+\OT1/cmr/m/n/12 jarams^^Pz. Tos^^Pnnan al^^Pn^^Sgan 8 buy^^Pmn^^P^^Sn
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5396--5396
+[]|\OT1/cmr/m/n/12 D^^Songelekti^^Sn ishine kvadrat s^^Pz^^Pl^^Sgan.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5396--5396
+\OT1/cmr/m/n/12 D^^Songelekti^^Sn ishi-nen tos^^Pnnan bel-gilen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5396--5396
+\OT1/cmr/m/n/12 gen no-qatt^^P^^Sn kvadratt^^P^^Sn ishinde jat^^Pw
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5398--5398
+[]|\OT1/cmr/m/n/12 S^^Pz^^Pql^^P dif-fer-en-cial te^^Snlemeni^^Sn ul-wma
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 5400--5400
+[]|\OT1/cmr/m/n/12 Funkcional qatard^^P^^Sn j^^Pynaql^^Pl^^Pq oblast^^Pn
+ []
+
+
+Overfull \hbox (29.20338pt too wide) in paragraph at lines 5378--5404
+[][] 
+ []
+
+
+Overfull \hbox (36.90643pt too wide) in paragraph at lines 5407--5410
+[][] 
+ []
+
+[100] (test.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 1159 strings out of 474485
+ 19553 string characters out of 5753553
+ 1937542 words of memory out of 5000000
+ 23494 multiletter control sequences out of 15000+600000
+ 561449 words of font info for 47 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,12n,65p,321b,126s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
+200.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/P
+rogram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/font
+s/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:
+/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/font
+s/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on test.pdf (100 pages, 364254 bytes).
+PDF statistics:
+ 378 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
