@@ -1,22 +1,26 @@
 const fs = require("fs");
 const _ = require("lodash");
 
-const { PFSHA, PFSHAA } = require("../pfsha.js");
-const { testShablon } = require("../angeom JB 11 QQ/test-shablon.js");
+const { PFSHAA } = require("../pfsha.js");
+
+const { texShablon } = require("../shablon/tex-shablon.cjs");
+const { shablon11 } = require("../shablon/11-sorawliq.cjs");
+
+const LANG = "UZB";
 
 let T = fs
-  .readFileSync("./angeom JB 11 UZB/T.md", "utf8")
+  .readFileSync(__dirname + `/../angeom material/${LANG}/T.md`, "utf8")
   .replaceAll("\r\n", "\n");
 let A = fs
-  .readFileSync("./angeom JB 11 UZB/A.md", "utf8")
+  .readFileSync(__dirname + `/../angeom material/${LANG}/A.md`, "utf8")
   .replaceAll("\r\n", "\n");
 
 let B = fs
-  .readFileSync("./angeom JB 11 UZB/B.md", "utf8")
+  .readFileSync(__dirname + `/../angeom material/${LANG}/B.md`, "utf8")
   .replaceAll("\r\n", "\n");
 
 let C = fs
-  .readFileSync("./angeom JB 11 UZB/C.md", "utf8")
+  .readFileSync(__dirname + `/../angeom material/${LANG}/C.md`, "utf8")
   .replaceAll("\r\n", "\n");
 
 // ------------------------------------------------
@@ -38,27 +42,8 @@ T = new PFSHAA(T, 2);
 A = new PFSHAA(A, 3);
 B = new PFSHAA(B, 3);
 C = new PFSHAA(C, 3);
-
 // ------------------------------------------------
-let test = `\\documentclass{article}
-\\usepackage[utf8]{inputenc}
-\\usepackage{array}
-\\usepackage[a4paper,
-  left=15mm,
-  top=15mm,]{geometry}
-\\usepackage{setspace}
-
-\\renewcommand{\\baselinestretch}{1.1} 
-
-
-  
-\\begin{document}
-
-\\large
-\\pagenumbering{gobble}
-
-`;
-
+let variant = "";
 let VARIANT_SANI = 100;
 
 for (let i = 0; i < VARIANT_SANI; i++) {
@@ -68,11 +53,7 @@ for (let i = 0; i < VARIANT_SANI; i++) {
   let a = A.next();
   let b = B.next();
   let c = C.next();
-  test += testShablon(i, t, a, b, c);
+  variant += shablon11(i, t, a, b, c);
 }
-
-test += "\\end{document}";
 // ------------------------------------------------
-
-// fs.writeFileSync("./esap.json", JSON.stringify(e));
-fs.writeFileSync("./angeom JB 11 UZB/angeom.JB-var.11-sorawliq.UZB.tex", test);
+fs.writeFileSync(__dirname + `/angeom.JB-11-${LANG}.tex`, texShablon(variant));

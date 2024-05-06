@@ -3,7 +3,7 @@
 // B - B tip (ortasha), massiv
 // C - C tip (qıyın), massiv
 
-function testShablon(i, t, A, B, C) {
+function shablon11(i, t, A, B, C) {
   return `
 \\begin{tabular}{m{17cm}}
 \\textbf{${i + 1}-variant}
@@ -37,4 +37,4 @@ C3. ${C[2]}\\\\
 `;
 }
 
-module.exports = { testShablon };
+module.exports = { shablon11 };

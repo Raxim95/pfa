@@ -1,4 +1,4 @@
-Ellips hám onıń kanonikalıq teńlemesi (anıqlaması, fokuslar, ellepstiń kanonikalıq teńlemesi, ekscentrisiteti, direktrisaları).
+Ellips hám onıń kanonikalıq teńlemesi (anıqlaması, fokuslar, ellipstiń kanonikalıq teńlemesi, ekscentrisiteti, direktrisaları).
 Ellipstiń polyar koordinatalardaǵı teńlemesi (polyar koordinatalar sistemasında ellipstiń teńlemesi).
 Ellipstiń urınbasınıń teńlemesi (ellips, tuwrı, urınıw tochka, urınba teńlemesi).
 Giperbola. Kanonikalıq teńlemesi (fokuslar, kósherler, direktrisalar, giperbola, ekscentrisitet, kanonikalıq teńlemesi).
@@ -24,5 +24,5 @@ Eki gewekli giperboloid. Kanonikalıq teńlemesi (giperbolanı simmetriya kóshe
 Giperbolalıq paraboloydtıń tuwrı sızıqlı jasawshıları (Giperbolalıq paraboloydtı jasawshı tuwrı sızıqlar dástesi).
 Ekinshi tártipli betliktiń ulıwma teńlemesi. Orayın anıqlaw formulası.
 Ekinshi tártipli aylanba betlikler (koordinata sisteması, tegislik, vektor iymek sızıq, aylanba betlik).
-Ellipslik paraboloid (parabola, kósher, ellepslik paraboloid).
+Ellipslik paraboloid (parabola, kósher, ellipslik paraboloid).
 Betliktiń kanonikalıq teńlemeleri. Betlik haqqında túsinik. (Betliktiń anıqlaması, formulaları, kósher, baǵıtlawshı tuwrılar).
