@@ -33,6 +33,7 @@ function PFSHA(m = [], v = 1, shuffle = true) {
 function PFSHAA(m = [], v = 1) {
   const obj = {};
 
+  // mnc - massiv non consecutive, indekslerdi ózinde saqlaydı, "indexes"ti qaytaradı
   let mnc = new PFSHA(SHANCWB(matshnc(m)), v, false);
 
   let newM = m.map((massiv) => new PFSHA(massiv));

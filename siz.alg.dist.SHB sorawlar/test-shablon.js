@@ -17,4 +17,4 @@ function testShablon(i, t1, t2, e1, e2, e3) {
 `;
 }
 
-module.exports = testShablon;
+module.exports = { testShablon };

@@ -1,0 +1,1210 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.4.1)  6 MAY 2024 01:52
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./angeom.JB-var.11-sorawliq.QQ.tex
+(angeom.JB-var.11-sorawliq.QQ.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Program Files\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(C:\Program Files\MiKTeX\tex/latex/tools\array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen141
+\ar@mcellbox=\box51
+\extrarowheight=\dimen142
+\NC@list=\toks19
+\extratabsurround=\skip50
+\backup@length=\skip51
+\ar@cellbox=\box52
+)
+(C:\Program Files\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+(C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count195
+\Gm@cntv=\count196
+\c@Gm@tempcnt=\count197
+\Gm@bindingoffset=\dimen143
+\Gm@wd@mp=\dimen144
+\Gm@odd@mp=\dimen145
+\Gm@even@mp=\dimen146
+\Gm@layoutwidth=\dimen147
+\Gm@layoutheight=\dimen148
+\Gm@layouthoffset=\dimen149
+\Gm@layoutvoffset=\dimen150
+\Gm@dimlist=\toks21
+
+(C:\Program Files\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Program Files\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count198
+\l__pdf_internal_box=\box53
+)
+(angeom.JB-var.11-sorawliq.QQ.aux)
+\openout1 = `angeom.JB-var.11-sorawliq.QQ.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(42.67912pt, 465.20166pt, 89.62709pt)
+* v-part:(T,H,B)=(42.67912pt, 700.96107pt, 101.40665pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=465.20166pt
+* \textheight=700.96107pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-66.59087pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 19.
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--22
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 19--47
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 49--77
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--82
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 79--107
+[][]
+ []
+
+[1
+
+{C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 110--112
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 109--137
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--142
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 139--167
+[][]
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 170--172
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 169--197
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--202
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 199--227
+[][]
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 230--232
+
+ []
+
+
+Underfull \hbox (badness 1997) in paragraph at lines 235--236
+[]|\OT1/cmr/m/n/12 T2. Parabolan^^P^^Sn pol-yar ko-or-di-na-ta-larda^^Sg^^P te^
+^Snlemesi (pol-yar ko-or-di-nata sis-temas^^Pnda
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 229--257
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--262
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 259--287
+[][]
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 290--292
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 289--317
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--322
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 319--347
+[][]
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 350--352
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 349--377
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 380--382
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 379--407
+[][]
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 410--412
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 409--437
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 440--442
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 439--467
+[][]
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 470--472
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 469--497
+[][]
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 500--502
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 499--527
+[][]
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 530--532
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 529--557
+[][]
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 560--562
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 559--587
+[][]
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 590--592
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 589--617
+[][]
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 620--622
+
+ []
+
+
+Underfull \hbox (badness 1997) in paragraph at lines 625--626
+[]|\OT1/cmr/m/n/12 T2. Parabolan^^P^^Sn pol-yar ko-or-di-na-ta-larda^^Sg^^P te^
+^Snlemesi (pol-yar ko-or-di-nata sis-temas^^Pnda
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 619--647
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 650--652
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 649--677
+[][]
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 680--682
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 679--707
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 710--712
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 709--737
+[][]
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 740--742
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 739--767
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 770--772
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 769--797
+[][]
+ []
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 800--802
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 799--827
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 830--832
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 829--857
+[][]
+ []
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 860--862
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 859--887
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 890--892
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 889--917
+[][]
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 920--922
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 919--947
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 950--952
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 949--977
+[][]
+ []
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 980--982
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 979--1007
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1010--1012
+
+ []
+
+
+Underfull \hbox (badness 1997) in paragraph at lines 1015--1016
+[]|\OT1/cmr/m/n/12 T2. Parabolan^^P^^Sn pol-yar ko-or-di-na-ta-larda^^Sg^^P te^
+^Snlemesi (pol-yar ko-or-di-nata sis-temas^^Pnda
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1009--1037
+[][]
+ []
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 1040--1042
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1039--1067
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1072
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1069--1097
+[][]
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 1100--1102
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1099--1127
+[][]
+ []
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 1130--1132
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1129--1157
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1160--1162
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1159--1187
+[][]
+ []
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 1190--1192
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1189--1217
+[][]
+ []
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 1220--1222
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1219--1247
+[][]
+ []
+
+[24]
+Underfull \hbox (badness 10000) in paragraph at lines 1250--1252
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1249--1277
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1280--1282
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1279--1307
+[][]
+ []
+
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 1310--1312
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1309--1337
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1340--1342
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1339--1367
+[][]
+ []
+
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 1370--1372
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1369--1397
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1400--1402
+
+ []
+
+
+Underfull \hbox (badness 1997) in paragraph at lines 1405--1406
+[]|\OT1/cmr/m/n/12 T2. Parabolan^^P^^Sn pol-yar ko-or-di-na-ta-larda^^Sg^^P te^
+^Snlemesi (pol-yar ko-or-di-nata sis-temas^^Pnda
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1399--1427
+[][]
+ []
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 1430--1432
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1429--1457
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1460--1462
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1459--1487
+[][]
+ []
+
+[28]
+Underfull \hbox (badness 10000) in paragraph at lines 1490--1492
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1489--1517
+[][]
+ []
+
+[29]
+Underfull \hbox (badness 10000) in paragraph at lines 1520--1522
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1519--1547
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1550--1552
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1549--1577
+[][]
+ []
+
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 1580--1582
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1579--1607
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1610--1612
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1609--1637
+[][]
+ []
+
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 1640--1642
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1639--1667
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1670--1672
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1669--1697
+[][]
+ []
+
+[32]
+Underfull \hbox (badness 10000) in paragraph at lines 1700--1702
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1699--1727
+[][]
+ []
+
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 1730--1732
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1729--1757
+[][]
+ []
+
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 1760--1762
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1759--1787
+[][]
+ []
+
+[35]
+Underfull \hbox (badness 10000) in paragraph at lines 1790--1792
+
+ []
+
+
+Underfull \hbox (badness 1997) in paragraph at lines 1795--1796
+[]|\OT1/cmr/m/n/12 T2. Parabolan^^P^^Sn pol-yar ko-or-di-na-ta-larda^^Sg^^P te^
+^Snlemesi (pol-yar ko-or-di-nata sis-temas^^Pnda
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1789--1817
+[][]
+ []
+
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 1820--1822
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1819--1847
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1850--1852
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1849--1877
+[][]
+ []
+
+[37]
+Underfull \hbox (badness 10000) in paragraph at lines 1880--1882
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1879--1907
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1910--1912
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1909--1937
+[][]
+ []
+
+[38]
+Underfull \hbox (badness 10000) in paragraph at lines 1940--1942
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1939--1967
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1970--1972
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1969--1997
+[][]
+ []
+
+[39]
+Underfull \hbox (badness 10000) in paragraph at lines 2000--2002
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 1999--2027
+[][]
+ []
+
+[40]
+Underfull \hbox (badness 10000) in paragraph at lines 2030--2032
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 2029--2057
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2060--2062
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 2059--2087
+[][]
+ []
+
+[41]
+Underfull \hbox (badness 10000) in paragraph at lines 2090--2092
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 2089--2117
+[][]
+ []
+
+[42]
+Underfull \hbox (badness 10000) in paragraph at lines 2120--2122
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 2119--2147
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2150--2152
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 2149--2177
+[][]
+ []
+
+[43]
+Underfull \hbox (badness 10000) in paragraph at lines 2180--2182
+
+ []
+
+
+Underfull \hbox (badness 1997) in paragraph at lines 2185--2186
+[]|\OT1/cmr/m/n/12 T2. Parabolan^^P^^Sn pol-yar ko-or-di-na-ta-larda^^Sg^^P te^
+^Snlemesi (pol-yar ko-or-di-nata sis-temas^^Pnda
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 2179--2207
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2210--2212
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 2209--2237
+[][]
+ []
+
+[44]
+Underfull \hbox (badness 10000) in paragraph at lines 2240--2242
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 2239--2267
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2270--2272
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 2269--2297
+[][]
+ []
+
+[45]
+Underfull \hbox (badness 10000) in paragraph at lines 2300--2302
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 2299--2327
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2330--2332
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 2329--2357
+[][]
+ []
+
+[46]
+Underfull \hbox (badness 10000) in paragraph at lines 2360--2362
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 2359--2387
+[][]
+ []
+
+[47]
+Underfull \hbox (badness 10000) in paragraph at lines 2390--2392
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 2389--2417
+[][]
+ []
+
+[48]
+Underfull \hbox (badness 10000) in paragraph at lines 2420--2422
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 2419--2447
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2450--2452
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 2449--2477
+[][]
+ []
+
+[49]
+Underfull \hbox (badness 10000) in paragraph at lines 2480--2482
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 2479--2507
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2510--2512
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 2509--2537
+[][]
+ []
+
+[50]
+Underfull \hbox (badness 10000) in paragraph at lines 2540--2542
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 2539--2567
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2570--2572
+
+ []
+
+
+Underfull \hbox (badness 1997) in paragraph at lines 2575--2576
+[]|\OT1/cmr/m/n/12 T2. Parabolan^^P^^Sn pol-yar ko-or-di-na-ta-larda^^Sg^^P te^
+^Snlemesi (pol-yar ko-or-di-nata sis-temas^^Pnda
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 2569--2597
+[][]
+ []
+
+[51]
+Underfull \hbox (badness 10000) in paragraph at lines 2600--2602
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 2599--2627
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2630--2632
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 2629--2657
+[][]
+ []
+
+[52]
+Underfull \hbox (badness 10000) in paragraph at lines 2660--2662
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 2659--2687
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2690--2692
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 2689--2717
+[][]
+ []
+
+[53]
+Underfull \hbox (badness 10000) in paragraph at lines 2720--2722
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 2719--2747
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2750--2752
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 2749--2777
+[][]
+ []
+
+[54]
+Underfull \hbox (badness 10000) in paragraph at lines 2780--2782
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 2779--2807
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2810--2812
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 2809--2837
+[][]
+ []
+
+[55]
+Underfull \hbox (badness 10000) in paragraph at lines 2840--2842
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 2839--2867
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2870--2872
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 2869--2897
+[][]
+ []
+
+[56]
+Underfull \hbox (badness 10000) in paragraph at lines 2900--2902
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 2899--2927
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2930--2932
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 2929--2957
+[][]
+ []
+
+[57]
+Underfull \hbox (badness 10000) in paragraph at lines 2960--2962
+
+ []
+
+
+Underfull \hbox (badness 1997) in paragraph at lines 2965--2966
+[]|\OT1/cmr/m/n/12 T2. Parabolan^^P^^Sn pol-yar ko-or-di-na-ta-larda^^Sg^^P te^
+^Snlemesi (pol-yar ko-or-di-nata sis-temas^^Pnda
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 2959--2987
+[][]
+ []
+
+[58]
+Underfull \hbox (badness 10000) in paragraph at lines 2990--2992
+
+ []
+
+
+Overfull \hbox (45.49518pt too wide) in paragraph at lines 2989--3017
+[][]
+ []
+
+[59] [60] (angeom.JB-var.11-sorawliq.QQ.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 1199 strings out of 474485
+ 20550 string characters out of 5753553
+ 1947542 words of memory out of 5000000
+ 23531 multiletter control sequences out of 15000+600000
+ 561112 words of font info for 46 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,11n,65p,308b,164s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Progra
+m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.p
+fb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Progr
+am Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on angeom.JB-var.11-sorawliq.QQ.pdf (60 pages, 291814 bytes).
+PDF statistics:
+ 235 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
