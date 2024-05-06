@@ -1,5 +1,6 @@
 *.aux
 *.log
 *.pdf
-*.syntex.gz
+*.gz
+*.synctex.gz
 node_modules
