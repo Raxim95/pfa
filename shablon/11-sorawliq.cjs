@@ -3,10 +3,13 @@
 // B - B tip (ortasha), massiv
 // C - C tip (qıyın), massiv
 
-function shablon11(i, t, A, B, C) {
+function shablon11(i, t, A, B, C, lang = "QQ") {
+  let var_text = "variant";
+  if (lang === "RUS") var_text = "вариант";
+
   return `
 \\begin{tabular}{m{17cm}}
-\\textbf{${i + 1}-variant}
+\\textbf{${i + 1}-${var_text}}
 \\newline
 
 T1. ${t[0]}\\\\

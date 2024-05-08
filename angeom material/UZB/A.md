@@ -6,8 +6,6 @@ Aylana tenglamasini tuzing: aylana diametrining uchlari $A(3;2)$ va $B(-1;6)$ nu
 Aylana tenglamasini tuzing: markazi koordinata boshida joylashgan va $3x-4y+20=0$ to'g'ri chiziqga urinadi.
 Aylana tenglamasini tuzing: markazi $C(1;-1)$ nuqtada joylashgan va $5x-12y+9-0$ to'g'ri chiziqga urinadi.
 Aylana tenglamasini tuzing: $A(3;1)$ va $B(-1;3)$ nuqtalardan o'tadi, markazi $3x-y-2=0$ togri chiziqda joylashgan.
-Aylana tenglamasini tuzing: $A(1;1)$, $B(1;-1)$ va $C(2;0)$ nuqtalardan o'tadi.
-Aylana tenglamasini tuzing: $M_1(-1;5)$, $M_2(-2;-2)$ va $M_3(5;5)$ nuqtalardan o'tadi.
 Aylananing $C$ markazi va $R$ radiusini toping: $x^2+y^2-2x+4y-20=0$.
 Aylananing $C$ markazi va $R$ radiusini toping: $x^2+y^2-2x+4y-14=0$.
 Aylananing $C$ markazi va $R$ radiusini toping: $x^2+y^2+4x-2y+5=0$.
@@ -22,7 +20,6 @@ Fokuslari abssissa o'qida va koordinata boshiga nisbatan simmetrik joylashgan el
 Fokuslari abssissa o'qida va koordinata boshiga nisbatan simmetrik joylashgan ellipsning tenglamasini tuzing: direktrisalar orasidagi masofa $5$ va fokuslari orasidagi masofa $2c=4$.
 Fokuslari abssissa o'qida va koordinata boshiga nisbatan simmetrik joylashgan ellipsning tenglamasini tuzing: katta o'qi $8$, direktrisalar orasidagi masofa $16$.
 Fokuslari abssissa o'qida va koordinata boshiga nisbatan simmetrik joylashgan ellipsning tenglamasini tuzing: kichik o'qi $6$, direktrisalar orasidagi masofa $13$.
-Fokuslari abssissa o'qida va koordinata boshiga nisbatan simmetrik joylashgan ellipsning tenglamasini tuzing: direktrisalar orasidagi masofa $32$ va $\varepsilon=1/9$.
 Fokuslari abssissa o'qida va koordinata boshiga nisbatan simmetrik joylashgan giperbolaning tenglamasini tuzing: o'qlari $2a=10$ va $2b=8$.
 Fokuslari abssissa o'qida va koordinata boshiga nisbatan simmetrik joylashgan giperbolaning tenglamasini tuzing: fokuslari orasidagi masofasi $2c=10$ va o'qi $2b=8$.
 Fokuslari abssissa o'qida va koordinata boshiga nisbatan simmetrik joylashgan giperbolaning tenglamasini tuzing: fokuslari orasidagi masofa $2c=6$ va ekssentrisitet $\varepsilon=3/2$.

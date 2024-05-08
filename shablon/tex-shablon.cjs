@@ -1,17 +1,19 @@
-function texShablon(tex = "") {
+function texShablon(tex = "", preamble = "") {
   return `\\documentclass{article}
-  \\usepackage[utf8]{inputenc}
-  \\usepackage{array}
-  \\usepackage[a4paper,
-  left=15mm,
-  top=15mm,]{geometry}
-  \\usepackage{setspace}
-  
-  \\renewcommand{\\baselinestretch}{1.1} 
-  
+\\usepackage[fontsize=12pt]{fontsize}
+\\usepackage[utf8]{inputenc}
+\\usepackage[T2A]{fontenc}
+\\usepackage{array}
+\\usepackage[a4paper,
+left=15mm,
+top=15mm,]{geometry}
+\\usepackage{setspace}
+${preamble}
+
+\\renewcommand{\\baselinestretch}{1.2} 
+
 \\begin{document}
 
-\\large
 \\pagenumbering{gobble}
 
 ${tex}

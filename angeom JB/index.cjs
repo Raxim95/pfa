@@ -6,7 +6,7 @@ const { PFSHAA } = require("../pfsha.js");
 const { texShablon } = require("../shablon/tex-shablon.cjs");
 const { shablon11 } = require("../shablon/11-sorawliq.cjs");
 
-const LANG = "UZB";
+const LANG = "RUS";
 
 let T = fs
   .readFileSync(__dirname + `/../angeom material/${LANG}/T.md`, "utf8")
@@ -53,7 +53,7 @@ for (let i = 0; i < VARIANT_SANI; i++) {
   let a = A.next();
   let b = B.next();
   let c = C.next();
-  variant += shablon11(i, t, a, b, c);
+  variant += shablon11(i, t, a, b, c, LANG);
 }
 // ------------------------------------------------
 fs.writeFileSync(__dirname + `/angeom.JB-11-${LANG}.tex`, texShablon(variant));

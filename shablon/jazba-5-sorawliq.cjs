@@ -1,7 +1,9 @@
-function shablon(i, t1, t2, e1, e2, e3) {
+function shablon(i, t1, t2, e1, e2, e3, lang = "QQ") {
+  let var_text = "variant";
+  if (lang === "RUS") var_text = "вариант";
   return `
 \\begin{tabular}{m{17cm}}
-\\textbf{${i + 1}-variant}\\\\
+\\textbf{${i + 1}-${var_text}}\\\\
 1. ${t1}\\\\
 
 2. ${t2}\\\\

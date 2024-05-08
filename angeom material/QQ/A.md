@@ -6,8 +6,6 @@ Sheńber teńlemesin dúziń: sheńber diametriniń ushları $A (3;2) $ hám $B 
 Sheńber teńlemesin dúziń: orayı koordinata basında jaylasqan hám $3 x-4 y+20=0$ tuwrı sızıǵına urınadı.
 Sheńber teńlemesin dúziń: orayı $C (1;-1) $ noqatında jaylasqan hám $5 x-12 y+9 -0$ tuwrı sızıǵına urınadı .
 Sheńber teńlemesin dúziń: $A (3;1) $ hám $B (-1;3) $ noqatlardan ótedi, orayı $3 x-y-2=0$ tuwrı sızıǵında jaylasqan .
-Sheńber teńlemesin dúziń: $A (1;1) $, $B (1;-1) $ hám $C (2;0) $ noqatlardan ótedi.
-Sheńber teńlemesin dúziń: $M_1 (-1;5) $, $M_2 (-2;-2) $ i $M_3 (5;5) $ noqatlardan ótedi.
 Sheńberdiń $C$ orayı hám $R$ radiusın tabıń: $x^2+y^2-2 x+4 y-20=0$.
 Sheńberdiń $C$ orayı hám $R$ radiusın tabıń: $x^2+y^2-2 x+4 y-14=0$.
 Sheńberdiń $C$ orayı hám $R$ radiusın tabıń: $x^2+y^2+4 x-2 y+5=0$.
