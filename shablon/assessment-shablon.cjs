@@ -1,6 +1,22 @@
-function shablon(i, t = [], e = [], lang = "QQ") {
+// jm - juwabi menen
+function shablon(i, t = [], e = [], lang = "QQ", jm = false) {
   let var_text = "variant";
   if (lang === "RUS") var_text = "вариант";
+
+  let slar = []; // sorawlar
+  let jlar = []; // juwaplar
+
+  for (let i = 0; i < t.length; i++) {
+    let [s, j] = t[i].split(",,");
+    slar.push(s);
+    jlar.push(j);
+  }
+
+  for (let i = 0; i < e.length; i++) {
+    let [s, j] = e[i].split(",,");
+    slar.push(s);
+    jlar.push(j);
+  }
 
   return `
 \\textbf{${i + 1}-${var_text}}\\\\
@@ -18,39 +34,39 @@ Toparı hám tálim baǵdarı  & \\\\
 \\hline
 \\end{tabular}
 
-\\vspace{0.7cm}
+\\vspace{1cm}
 
 \\begin{tabular}{|m{0.7cm}|m{10cm}|m{4cm}|}
 \\hline
 № & Soraw & Juwap \\\\
 \\hline
-1. & ${t[0]} &  \\\\
+1. & ${slar[0]} & ${jm ? jlar[0] : ""} \\\\
 \\hline
-2. & ${t[1]} &  \\\\
+2. & ${slar[1]} & ${jm ? jlar[1] : ""} \\\\
 \\hline
-3. & ${t[2]} &  \\\\
+3. & ${slar[2]} & ${jm ? jlar[2] : ""} \\\\
 \\hline
-4. & ${t[3]} &  \\\\
+4. & ${slar[3]} & ${jm ? jlar[3] : ""} \\\\
 \\hline
-5. & ${e[0]} &  \\\\
+5. & ${slar[4]} & ${jm ? jlar[4] : ""} \\\\
 \\hline
-6. & ${e[1]} &  \\\\
+6. & ${slar[5]} & ${jm ? jlar[5] : ""} \\\\
 \\hline
-7. & ${e[2]} &  \\\\
+7. & ${slar[6]} & ${jm ? jlar[6] : ""} \\\\
 \\hline
-8. & ${e[3]} &  \\\\
+8. & ${slar[7]} & ${jm ? jlar[7] : ""} \\\\
 \\hline
-9. & ${e[4]} &  \\\\
+9. & ${slar[8]} & ${jm ? jlar[8] : ""} \\\\
 \\hline
-10. & ${e[5]} & \\\\
+10. & ${slar[9]} & ${jm ? jlar[9] : ""} \\\\
 \\hline
 \\end{tabular}
 
-\\vspace{0.7cm}
+\\vspace{1cm}
 
 \\begin{tabular}{lll}
-Tuwrı juwaplar sanı: \\underline{\\hspace{1cm}} & 
-Bahası: \\underline{\\hspace{1cm}} & 
+Tuwrı juwaplar sanı: \\underline{\\hspace{1.5cm}} & 
+Bahası: \\underline{\\hspace{1.5cm}} & 
 Imtixan alıwshınıń qolı: \\underline{\\hspace{2cm}} \\\\
 \\end{tabular}
 

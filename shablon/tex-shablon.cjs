@@ -7,10 +7,11 @@ function texShablon(tex = "", preamble = "") {
 \\usepackage[a4paper,
 left=15mm,
 top=15mm,]{geometry}
+\\usepackage{amsmath}
 \\usepackage{setspace}
 ${preamble}
 
-\\renewcommand{\\baselinestretch}{1.2} 
+\\renewcommand{\\baselinestretch}{1} 
 
 \\begin{document}
 
